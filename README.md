@@ -59,7 +59,7 @@ fg_pixels       : 9383 (3.93% dari ROI)
 n_components    : 2
 span_ratio      : 0.88
 largest_cc_ratio: 0.72
-contrast        : 96.0
+contrast        : 71.3
 KEPUTUSAN       : SIGNATURE PRESENT
 ```
 
